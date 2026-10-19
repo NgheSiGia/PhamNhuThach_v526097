@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BaiTap/BaiTap.iml" filepath="$PROJECT_DIR$/BaiTap/BaiTap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/UTC Java.iml" filepath="$PROJECT_DIR$/.idea/UTC Java.iml" />
+    </modules>
+  </component>
+</project>
