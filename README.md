@@ -1,4 +1,4 @@
-Một môn học mang tên java của PNT a.k.a GAT
+Một nơi để push bài tập môn học mang tên java của PNT a.k.a GAT
 - Cấu trúc chung: /- - Các loại type:
     - feat: Tính năng mới --VD: feat/user
     - fix: Sửa lỗi --VD: fix/user
